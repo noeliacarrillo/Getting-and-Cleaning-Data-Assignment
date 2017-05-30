@@ -1,12 +1,12 @@
 This code book EXPLAINS the resulting data fields in "tidy_dataset_assignment.txt"
 
-## Identifiers
+# Identifiers
 
 subject - The ID of the test subject
 activity - The type of activity performed when the measurements were taken. 
              Possible values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-## Measurements: t = temperature, f = frecuenc, Acc = Accelerometer, Gyro = Gyroscope
+# Measurements: t = temperature, f = frecuenc, Acc = Accelerometer, Gyro = Gyroscope
 
 "tBodyAcc-mean-X"               "tBodyAcc-mean-Y"              
 "tBodyAcc-mean-Z"               "tBodyAcc-std-X"               
